@@ -1,0 +1,5 @@
+*.flow
+*.swp
+*.json
+*.dat
+node_modules
